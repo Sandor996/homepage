@@ -12,8 +12,8 @@ body {
   --secondary-text-color: #5c5c62;
   --durability-text-color: #6a737d9c;
   --icon-color: #6a737d;
-  --border-color: #0059ffbd;
-  --text-decoration-color: #0059ffbd;
+  --border-color: #091220bd;
+  --text-decoration-color: #091220bd;
 }
 
 .container {
@@ -122,8 +122,8 @@ body {
 
 .contact-info__avatar {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border: 3px solid;
   border-color: var(--text-decoration-color);
